@@ -26,7 +26,7 @@ useEffect(() => {
                
             </div>
         </div>
-    )
+    );
 }
 
 export default Products

@@ -1,7 +1,7 @@
 import{BrowserRouter as Router, Switch,Route} from 'react-router-dom';
 import Home from './pages/home';
 import SingleProduct from './pages/SingleProduct';
-import Cart from './pages/cart';
+import Cart from './pages/Cart';
 import Navigation from './components/Navigation';
 import ProductsPage from './pages/ProductsPage';
 import {CartContext} from './CartContext';
